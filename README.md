@@ -4,9 +4,9 @@ WeatherForecastProject
 
 1. Steps for setup springBoot project
 
-mvn clean
-mvn compile
-Run the main class now
+ a) mvn clean
+ b) mvn compile
+ c) Run the main class now
 
 2. Apis endpoints are 
 
