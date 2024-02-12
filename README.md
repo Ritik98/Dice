@@ -25,3 +25,4 @@ Client Id and secret are randomly added
 As the request comes , first we do filteration and check whether it contains the correct client id and client secret.
 After filteration , it will hit the third party api and also manages the exception and return the result.
 
+**Note**: THis hourly based api is not subscribed in free subscription list (**weather/forecast/summary/hourly/Berlin**) . So it will not give the desired results .
